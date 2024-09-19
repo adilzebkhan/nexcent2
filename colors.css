@@ -1,0 +1,128 @@
+:root{
+    --ramp-black-100-light: rgba(0, 0, 0, .05);
+    --ramp-black-100-dark: rgba(0, 0, 0, .05);
+    --ramp-black-1000-light: rgba(0, 0, 0, 1);
+    --ramp-black-1000-dark: rgba(0, 0, 0, 1);
+    --ramp-black-200-light: rgba(0, 0, 0, .1);
+    --ramp-black-200-dark: rgba(0, 0, 0, .1);
+    --ramp-black-300-light: rgba(0, 0, 0, .2);
+    --ramp-black-300-dark: rgba(0, 0, 0, .2);
+    --ramp-black-400-light: rgba(0, 0, 0, .3);
+    --ramp-black-400-dark: rgba(0, 0, 0, .3);
+    --ramp-black-500-light: rgba(0, 0, 0, .5);
+    --ramp-black-500-dark: rgba(0, 0, 0, .5);
+    --ramp-black-600-light: rgba(0, 0, 0, .8);
+    --ramp-black-600-dark: rgba(0, 0, 0, .8);
+    --ramp-black-700-light: rgba(0, 0, 0, .85);
+    --ramp-black-700-dark: rgba(0, 0, 0, .85);
+    --ramp-black-800-light: rgba(0, 0, 0, .9);
+    --ramp-black-800-dark: rgba(0, 0, 0, .9);
+    --ramp-black-900-light: rgba(0, 0, 0, .95);
+    --ramp-black-900-dark: rgba(0, 0, 0, .95);
+    --ramp-blue-100-dark: #e2f1fd;
+    --ramp-blue-100-light: #f2f9ff;
+    --ramp-blue-1000-dark: #161e36;
+    --ramp-blue-1000-light: #0d193f;
+    --ramp-blue-200-dark: #cfe9fc;
+    --ramp-blue-200-light: #e5f4ff;
+    --ramp-blue-300-dark: #a8d7fa;
+    --ramp-blue-300-light: #bde3ff;
+    --ramp-blue-400-dark: #7cc4f8;
+    --ramp-blue-400-light: #80caff;
+    --ramp-blue-500-dark: #0c8ce9;
+    --ramp-blue-500-light: #0d99ff;
+    --ramp-blue-600-dark: #0a6dc2;
+    --ramp-blue-600-light: #007be5;
+    --ramp-blue-700-dark: #105cad;
+    --ramp-blue-700-light: #0768cf;
+    --ramp-blue-800-dark: #184591;
+    --ramp-blue-800-light: #034ac1;
+    --ramp-blue-900-dark: #1b335f;
+    --ramp-blue-900-light: #093077;
+    --ramp-green-100-dark: #ddfde2;
+    --ramp-green-100-light: #ebffee;
+    --ramp-green-1000-dark: #0b1e15;
+    --ramp-green-1000-light: #083a23;
+    --ramp-green-200-dark: #beefc2;
+    --ramp-green-200-light: #cff7d3;
+    --ramp-green-300-dark: #a1e8b9;
+    --ramp-green-300-light: #aff4c6;
+    --ramp-green-400-dark: #79d297;
+    --ramp-green-400-light: #85e0a3;
+
+}
+
+/* font classes for roboto font */
+.roboto-thin {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .roboto-light {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .roboto-medium {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    
+  }
+  
+  .roboto-bold {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .roboto-black {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  .roboto-thin-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+  }
+  
+  .roboto-light-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .roboto-regular-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .roboto-medium-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+  
+  .roboto-bold-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  .roboto-black-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+  }
+  

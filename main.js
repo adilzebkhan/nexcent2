@@ -1,0 +1,1 @@
+console.log("This is java script vite project from figma design");
